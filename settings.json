@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "Katuaa",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "Avnsh.aternos.me",
+    "port": 30348,
     "version": "1.21.1"
   },
   "position": {
@@ -30,8 +30,8 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
+        "Welcome",
+        "From AvnshGaming777",
         "I like to play Minecraft!"
       ]
     },
